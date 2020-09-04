@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="Edu01">
+<fileDesc>
+<titleStmt>
+<title>    كلمة أمير قطر في حفل تخريج طلبة الجامعة</title>
+<author>Secretary+Amir </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>University of Qatar, Qatar</publisher>
+<pubPlace> Qatar </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>transcribed from an audio recording obtained from the educational technology centre in the University of Qatar</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole speech of 435 words transcribed from the recording</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-06">June 2003</date>
+<rs type="city">Doha, Qatar</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc ana="education-Speech">
+<channel mode="ws">written to be spoken; speech</channel>
+<recording type="audio" dur="5 mins"></recording>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="socsci"/>
+<factuality type="inapplicable"/>
+<interaction type="none" active="corporate"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="52">
+<birth date="1952">
+<date> Unknown </date>
+<name type="place"> Qatar </name>
+<nationality>= Qatari </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>English</langKnown>
+<residence> Qatar </residence>
+<education> Royal Military Academy, Sandhurst </education>
+<occupation>Amir of the State of Qatar</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>    بسم الله الرحمن الرحيم </p>
+
+<p>أصحاب السعادة الشيوخ والوزراء. السادة الضيوف الكرام . السادة مدير الجامعة وأعضاء هيئة التدريس. أبنائي الخريجين والطلبة. إنها لمناسبة سعيدة أن ألتقي بكم اليوم في حفل تخرجكم الذي يعني لنا الكثير. ذلك إننا نؤمن أن تنمية ئروتنا البشرية هي الأساس فيما ننشده لبلدنا من تقدم ورفعة. وإن أبناءنا الجامعيين وشبابنا ومثقفينا هم عدتنا التي يجب أن نعمل على توفيركل الإمكانيات اللازمة لهم لأداء دورهم كاملا في خدمة وطننا وإعلاء شأنه. إننا نريد من جامعتنا أن تصبح رافدا أساسيا لمسيرة التقدم عن طريق إيجاد الكفاءات البشرية القادرة على تحقيق هذه الغاية وأن تكون أداة لبناء الإنسان المنتج المسلح بالعلم والمعرفة وأن تهتم بالتعليم المستمر لما له من أهمية في تقديم العلم والثقافة لأبناء المجتمع. كما نريدها أن تستعد للقرن القادم بمناهج تعليمية حديثة تساهم في إعداد الكفاءات المدربة وتطوير المجتمع لمواجهة التحديات الثقافية والسياسية والإقتصادية المعاصرة في عالم لا يعرف الجمود من دون أن نغفل تعاليم ديننا الحنيف وتقاليدنا العربية الأصيلة. وهو ما يتطلب من خريجينا أن يعوا تماما. أن الجامعة لم تعد جامعة معارف فحسب بل جامعة يتم في رحابها التفاعل بين الأساتذة والطلاب. وبين العلم والحياة. تنشأ النشاطات  الجديدة من العلاقات بين الجامعة والمجتمع الذي يحيط بها. إن مجتمعنا في قطر يتطلع اليوم من خلال جامعته إلى ثقافة تتميز بحيوية وتقدم مستمرين. ولن يتم لنا ذلك إلا إذا نجحت هذة الجامعة في تغيير العلاقة بين المعلم والطالب من علاقة تلقين إلى علاقة حوار. وأن يصبح دور الأستاذ الجامعي محفزا للمواهب وعاملا في التجديد. تلك هي الطريقة لبناء الإنسان القطري الواثق بنفسه الأقرب للإبداع والأبعد عن التقليد. إن الدولة حريصة على تشجيع الخريجين من أصحاب المبادرات والمشروعات الصغيرة فردية كانت أو تعاونية لتعمل في القطاع الإقتصادي. كما أن الدولة تشجع القطاع الخاص ومؤسساته على الإستفادة من جهودكم في الإسهام في التنمية الوطنية الشاملة. أبنائي الخريجين.. إن لكم دورا حيويا في تنمية بلدكم. وهو دور إيها الأبناء لا يعطى بل يؤخذ بالطموح والإصراروالمثابرة. فالإنسان هو محور التنمية وأداتها التي تحقق ما نتطلع إليه جميعا من غد أفضل. حضرات السادة... إننا نؤكد على ضرورة أن تعمل الجامعة على تطوير برامجها في إطار النظرة المستقبلية للمكانة المرموقة التي ننشدها لوطننا وإعداد شبابنا وجعلهم مؤهلا للمشاركة الفعالة في النهضة الشاملة التي يشهدها بلدنا. أبنائي الخريجين... إنني أهنئكم وأنتم تقطفون ثمار رحلة دراسية تكللت بالنجاح متمنيا لكم التوفيق فيما يسند إليكم من مهام لخدمة بلدكم. لقد أمضيتم سنوات مثمرة من حياتكم في حرم الجامعة تعدكم للعمل والعطاء. فلتكونوا عند حسن الظن بكم. ولتؤدوا واجبكم نحو وطنكم الذي يفخر اليوم بكم ويتطلع إلى انضمامكم إلى ركب مسيرة البناء والتقدم. كما أغتنم هذه الفرصة لأعبر عن شكري وتقديري للجامعة ممثلة في أساتذتها وإداراتها وطلابها وجميع العاملين فيها سائلا المولى عز وجل السداد والتوفيق. والسلام عليكم ورحمة الله وبركاته.</p>
+
+</body>
+</text>
+</tei.2>
+
